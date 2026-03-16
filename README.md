@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=###  I'm Asadbek Ruziboyev Umirbek ug'li 👋
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=###  I'm Zarifboyev Sulaymon Vafoboy o'g'li ug'li 👋
 
 <p align="center">
   
