@@ -66,4 +66,3 @@
   <img src="https://komarev.com/ghpvc/?username=zarifboyevsulaymon0-debug&label=PROFILE+VIEWS&color=00FF7F&style=flat-square" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer" width="100%" />
