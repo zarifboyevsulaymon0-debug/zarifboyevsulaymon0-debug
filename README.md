@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/RrustamovSulaymon?tab=followers">
+  <a href="https://github.com/zarifboyevsulaymon0-debug?tab=followers">
     <img src="https://img.shields.io/badge/FOLLOW%20ME-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -15,9 +15,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/RrustamovSulaymon/RrustamovSulaymon?label=STARS&color=gold&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/RrustamovSulaymon?label=FOLLOWERS&color=yellow&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=RrustamovSulaymon&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/zarifboyevsulaymon0-debug/zarifboyevsulaymon0-debug?label=STARS&color=gold&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/zarifboyevsulaymon0-debug?label=FOLLOWERS&color=yellow&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=zarifboyevsulaymon0-debug&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
 </div>
 
 <br/>
@@ -26,12 +26,12 @@
 
 <h2 align="center">📊 My GitHub Activity</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RrustamovSulaymon&theme=react-dark&bg_color=000000&color=00FF7F&line=00FF7F&point=ffffff&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarifboyevsulaymon0-debug&theme=react-dark&bg_color=000000&color=00FF7F&line=00FF7F&point=ffffff&hide_border=true&area=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RrustamovSulaymon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RrustamovSulaymon&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zarifboyevsulaymon0-debug&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarifboyevsulaymon0-debug&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" style="width: 100%;" />
