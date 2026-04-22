@@ -1,77 +1,59 @@
-###  I'm Zarifboyev Sulaymon Vafoboy ug'li 👋
-
-<p align="center">
-  
-
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Hii%20I'm%20Zarifboyev_Sulaymon%20Welcome%20to%20my%20GitHub%20profile!&fontSize=30&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
-</p>
-
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-<h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari+IT+O'quvchisi" />
-</p>
-
-
-<h2 align="center">🛠 Tech Arsenal</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,mongodb,py,ai&perline=14" width="100%" />
-</p>
-
 <div align="center">
-
-<div align="center">
-
-## 📊 GitHub Analytics
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=###  I'm Zarifboyev Sulaymon Vafoboy o'g'li ug'li 👋
-
-<p align="center">
-  
-
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Hii%20I'm%20Zarifboyev_Sulaymon%20Welcome%20to%20my%20GitHub%20profile!&fontSize=30&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
-</p>
-
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-<h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari+IT+O'quvchisi" />
-</p>
-
-
-<h2 align="center">🛠 Tech Arsenal</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,pandas,numpy,sklearn,github,vscode,mysql,postgres,ai&perline=14" width="100%" />
-</p>
-
 <div align="center">
-
-<div align="center">
-
-## 📊 GitHub Analytics
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Salom+men+Zarifboyev+Sulaymon;Full+Stack+Dasturchi;Menga+obuna+bo'ling!" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/ZarifboyevSulaymon">
+    <img src="https://img.shields.io/badge/FOLLOW%20ME-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/ZarifboyevSulaymon/ZarifboyevSulaymon?label=STARS&color=gold&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ZarifboyevSulaymon?label=FOLLOWERS&color=yellow&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ZarifboyevSulaymon&label=PROFILE%20VIEWS&color=0e75b6&style=flat" />
+</div>
+
+<br/>
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" style="width: 100%;" />
+
+<h2 align="center">📊 Mening GitHub faoliyatim</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZarifboyevSulaymon&theme=react-dark&bg_color=000000&color=00FF7F&line=00FF7F&point=ffffff&hide_border=true&area=true" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZarifboyevSulaymon&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZarifboyevSulaymon&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" style="width: 100%;" />
+
+<h2 align="center">🚀 Texnologiyalar</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarifboyevsulaymon0-debug&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarifboyevsulaymon0-debug&theme=neon&hide_border=true" width="100%" />
-</p>&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" style="width: 100%;" />
 
+<h2 align="center">🤝 Men bilan bog'lanish:</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?usera=zarifboyevsulaymon0-debug&theme=neon&hide_border=true" width="100%" />
+  <a href="mailto:SULAYMON@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://t.me/Zarifboyev_Sulaymon">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/Zarifboyev_Sulaymon">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
