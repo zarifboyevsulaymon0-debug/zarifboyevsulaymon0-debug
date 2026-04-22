@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=200&section=header&text=Zarifboyev%20Sulaymon&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full+Stack+Dasturchi;Freelancer;Texnologiya+ishqibozi!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Junior;Freelancer;Texnologiya+ishqibozi!" />
 
   <p align="center">
     <a href="https://t.me/Zarifboyev_Sulaymon" target="_blank">
